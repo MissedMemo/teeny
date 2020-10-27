@@ -1,4 +1,7 @@
 {
   "name": "@memomissed/teeny",
-  "version": "1.0.0"
+  "description": "removes all spaces from string",
+  "version": "1.0.0",
+  "repository": "memomissed/teeny",
+  "main": "index.js"
 }
